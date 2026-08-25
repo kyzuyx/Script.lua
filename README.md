@@ -1,4 +1,4 @@
---[[
+1--[[
     ⚡ HUB ULTIMATE - Aimbot + Hitbox + ESP
     Compatível com Delta Executor (Mobile)
     Versão: 2.0
